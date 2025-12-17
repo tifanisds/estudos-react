@@ -60,7 +60,7 @@ As props permitem:
 - personalizar componentes reutilizáveis
 - tornar componentes configuráveis
 
-<img src="../assets/img/props-in-react.png" alt="Props react" width="600"></img>
+<img src="../assets/img/props-in-react.png" alt="Props react" width="600">
 
 ### React Element 
 Um React Element é um objeto JavaScript que descreve o que deve aparecer na tela.
@@ -91,7 +91,7 @@ function Titulo() {
 }
 ```
 
-<img src="../assets/img/pontos-base-do-react.png" alt="Pontos base do react" width="600"></img>
+<img src="../assets/img/pontos-base-do-react.png" alt="Pontos base do react" width="600">
 
 ## Pontos positivos do React
 
